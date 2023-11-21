@@ -12,3 +12,6 @@ in and out Sankey diagram
 Slope chart with the circles - Allison, Rohan
 Zoom in on certain states 
 Area charts-Yangming, Logan
+
+### Time to show some Pokemon
+![](/assets/imgs/pokemon.jpg)
