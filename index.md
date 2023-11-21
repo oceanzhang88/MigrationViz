@@ -4,3 +4,10 @@
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/shared/QTSPGKXBM?:embed=yes&display_count=n&:origin=viz_share_link&:showVizHome=no" width = '1000' height = '550' scrolling='yes' ></iframe>
 
+### The Data
+overview with map, then details with butterfly
+Graph ideas:
+in and out Sankey diagram
+Slope chart with the circles - Allison, Rohan
+Zoom in on certain states 
+Area charts-Yangming, Logan
