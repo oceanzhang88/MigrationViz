@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-header {
-  .a: none;
+header.a {
+  display: none;
 }
 
 footer {
