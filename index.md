@@ -1,11 +1,3 @@
-<h1 style="text-align: center;">The Data</h1>
-overview with map, then details with butterfly
-Graph ideas:
-in and out Sankey diagram
-Slope chart with the circles - Allison, Rohan
-Zoom in on certain states 
-Area charts-Yangming, Logan
-
 <h1 style="text-align: center;">Migration Overview</h1>
 
 <h1 style="text-align: center;">Where did people go</h1>
@@ -25,6 +17,15 @@ Area charts-Yangming, Logan
 
 
 <h1 style="text-align: center;"> Conclusion</h1>
+
+<h1 style="text-align: center;">The Data</h1>
+overview with map, then details with butterfly
+Graph ideas:
+in and out Sankey diagram
+Slope chart with the circles - Allison, Rohan
+Zoom in on certain states 
+Area charts-Yangming, Logan
+
 
 ### Time to show some Pokemon
 ![](/assets/imgs/pokemon.jpg)
