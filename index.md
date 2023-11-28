@@ -11,5 +11,22 @@ Slope chart with the circles - Allison, Rohan
 Zoom in on certain states 
 Area charts-Yangming, Logan
 
+### Migration Overview
+
+
+### Where did people go
+
+
+### Political Party Influence
+
+
+### Abortion
+
+
+### Unemployment
+
+
+### Conclusion
+
 ### Time to show some Pokemon
 ![](/assets/imgs/pokemon.jpg)
