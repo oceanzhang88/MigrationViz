@@ -1,6 +1,18 @@
 <h1 style="text-align: center;">Migration Overview</h1>
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/WhosGainingLosingPopulationRelative2022/WhosGainingLosingMap2022?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+
+
 <h1 style="text-align: center;">Where did people go</h1>
+
+![](/assets/imgs/chord_all.png)
+![](/assets/imgs/chord_california.png)
+![](/assets/imgs/chord_florida.png)
+![](/assets/imgs/chord_georgia.png)
+![](/assets/imgs/chord_newyork.png)
+![](/assets/imgs/chord_northcarolina.png)
+![](/assets/imgs/chord_texas.png)
+
 
 ### Certain states have gained people while some have lost people
 
@@ -9,6 +21,10 @@
 
 <h1 style="text-align: center;"> Political Party Influence</h1>
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/OverTimeGrowthRatebyPoliticalParty/OverTimeGrowthbyParty?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/LargeStates-OverTimeGrowthRatebyPoliticalParty/OverTimeGrowthbyParty?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;">Abortion</h1>
 
