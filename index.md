@@ -27,7 +27,7 @@
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/LargeStates-OverTimeGrowthRatebyPoliticalParty/OverTimeGrowthbyParty?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;">Regions</h1>
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1000' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '850' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 
 <h1 style="text-align: center;">Unemployment</h1>
