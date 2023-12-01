@@ -29,6 +29,10 @@
 <h1 style="text-align: center;">Regions</h1>
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '850' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
+![](/assets/imgs/Chord_all_regions.png)
+
+![](/assets/imgs/Selected_regions_chord.png)
+
 
 <h1 style="text-align: center;">Unemployment</h1>
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
