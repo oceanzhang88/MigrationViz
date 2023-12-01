@@ -29,7 +29,7 @@
 <h1 style="text-align: center;">Regions</h1>
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '850' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-![](/assets/imgs/Chord_all_regions.png)
+![largediagram](/assets/imgs/Chord_all_regions.png)
 
 ![](/assets/imgs/Selected_regions_chord.png)
 
@@ -41,12 +41,10 @@
 <h1 style="text-align: center;"> Conclusion</h1>
 
 <h1 style="text-align: center;">The Data</h1>
-overview with map, then details with butterfly
-Graph ideas:
-in and out Sankey diagram
-Slope chart with the circles - Allison, Rohan
-Zoom in on certain states 
-Area charts-Yangming, Logan
+If you wish to look into migration further, the sources we have used are linked below:
+- Census data
+- Region classification
+- party classification
 
 
 ### Time to show some Pokemon
