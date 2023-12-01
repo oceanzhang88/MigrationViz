@@ -5,13 +5,13 @@
 
 <h1 style="text-align: center;">Where did people go</h1>
 
-![](/assets/imgs/chord_all.png)
-![](/assets/imgs/chord_california.png)
-![](/assets/imgs/chord_florida.png)
-![](/assets/imgs/chord_georgia.png)
-![](/assets/imgs/chord_newyork.png)
-![](/assets/imgs/chord_northcarolina.png)
-![](/assets/imgs/chord_texas.png)
+![largediagram](/assets/imgs/chord_all.png)
+![largediagram](/assets/imgs/chord_california.png)
+![largediagram](/assets/imgs/chord_florida.png)
+![largediagram](/assets/imgs/chord_georgia.png)
+![largediagram](/assets/imgs/chord_newyork.png)
+![largediagram](/assets/imgs/chord_northcarolina.png)
+![largediagram](/assets/imgs/chord_texas.png)
 
 
 ### Certain states have gained people while some have lost people
