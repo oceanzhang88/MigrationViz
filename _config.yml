@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "CS 6730: US People Migration"
+title: "CS 6730 Final Project: Migration between States in the US"
 description: by Allison Lu, Logan Bowers, Rohan Agarwal, and Yangming Zhang
