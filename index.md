@@ -44,7 +44,7 @@ In New York, many people are coming from Florida and California, as well as near
 
 <h3>Texas</h3>
 ![largediagram](/assets/imgs/chord_texas.png)
-Finally, Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
+Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
 
 <h3>North Carolina</h3>
 ![largediagram](/assets/imgs/chord_northcarolina.png)
@@ -52,7 +52,7 @@ North Carolina has a lot of people coming from other Southern states--Georgia, F
 
 <h3>Georgia</h3>
 ![largediagram](/assets/imgs/chord_georgia.png)
-Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
+Finally, Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
 
 Overall, we see that new residents for any given state come from a variety of other states. However, there are still some patterns. A lot of new residents come from nearby states, and a lot come from large states, especially heavy-outflux states like CA and NY, but even heavy-influx states like FL and TX. Major stand-out relationships include New York/Florida, and Texas/California. Notably, migration between these pairs is strong in both directions, even though in each pair one state is growing and the other is declining. For example, many people move from Florida to New York, even though the opposite is also true, and Florida has strong net influx and New York has strong net outflux.
 
@@ -64,6 +64,7 @@ We can also look at these changes geographically on a map and compare certain st
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
+analysis here
 
 <h3>New York vs. Texas</h3>
 
@@ -71,8 +72,10 @@ We can also look at these changes geographically on a map and compare certain st
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/TXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
+analysis here
+
 <h1 style="text-align: center;">Migration Correlated with other Factors</h1>
-What could be causing these migration patterns as well as population changes? Below, we have taken a look at political party, regions, as well as unemployment to see if there are any relations with migrations and population change.
+Now that we have looked at some migration patterns, we should ask a question about why. What could be causing these migration patterns as well as population changes? Below, we have taken a look at political party, regions, as well as unemployment to see if there are any relations with migrations and population change.
 
 <h2 style="text-align: center;"> Political Party Influence</h2>
 
@@ -99,7 +102,7 @@ We can see the current situation in 2022 in more detail with this Sankey diagram
 Overall, blue states have higher movement in both directions, but red states clearly make up a larger proportion of influx, relative to their outflux (shown by the shift in the central pool of all people moving in 2022).
 
 <h2 style="text-align: center;">Regions</h2>
-Perhaps geographical region has an effect on the movement of people. We can also look at the migration of people by focusing on geographical regions of the United States: North East, South East, South West, Mid West, and West. 
+Another idea we can look into is that the geographical region of a state has an effect on the movement of people. We have split the US into 5 regions and looked at the migration of people by focusing on those regions: North East, South East, South West, Mid West, and West. 
 
 
 ![](/assets/imgs/Chord_all_regions.png)
@@ -116,15 +119,15 @@ Overall, there is significant movement out of the South East, but also movement 
 
 We can also see there is movement from the West to the South West and Midwest, the two regions that are closest to it. Overall, we can actually see this trend for most regions except for the South East. Most of the largest influxes for each region come from a neighboring region. The one exception is the large influx to the West from the South East and the overall uniform influx for the Southeastern region.
 
-Next, we can also just look at the general year over year change for each region to see how things may have changed with time. 
+Next, we can also just look at the general year over year change for each region to see how things may have changed with time. The graphs below show the region trends, but also the trends for states within a selected region. To select a region, click on the line in the graph.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '850' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-Looking at the year over year percent change of each region from 2011-2022 in the graph, we can quickly see that between 2020-2021, there were no changes likely due to the COVID lockdown. The second most notable thing is highlighted in the year to year percent change values for the North Eastern region of the US. From the graph, it is easy to see that there was a large increase from 2019 to 2020. Then the COVID lockdown happens. About a year after, we can see a drastic decrease in this region. 
+Looking at the year over year percent change of each region from 2011-2022 in the graph, we can quickly see that between 2020-2021, there were almost no changes from the way we calculated 2020 values. The most notable thing is highlighted in the year to year percent change values for the North Eastern region of the US. From the graph, it is easy to see that there was a large increase from 2019 to 2020. Then the COVID lockdown happens. About a year after, we can see a drastic decrease in this region. 
 
-Similarly, we can see this trend for midwestern and western states although to a lesser degree. When looking at the graph for midwestern states, surprisingly, there is a comparable peak in 2013, and upon further investigation for the percent changes for the states in the region, we can see that North Dakota had a large spike in growth that year. We can note that some regions have a general trend like in the North East and Midwest while other regions like the South East don’t really have a trend between the different states within it.
+Similarly, we can see this trend for midwestern and western states although to a lesser degree. When looking at the graph for midwestern states, surprisingly, there is a large peak in 2013, and upon further investigation for the percent changes for the states in the region, we can see that North Dakota had a large spike in growth that year. We can note that some regions have a general trend like in the North East and Midwest while other regions like the South East don’t really have a trend between the different states within it.
 
-Now when looking at the states within a region, the graph on the bottom also encodes the color of the political party of the state. We can also note that region can also correlate with political party. As we look at the states in the North Eastern region, we can see that they are all essentially blue states, so a large decrease in these states affect the overall trend for blue states. Similarly, we can see that in the Midwest, most of the states are red states with a decline in year to year change from 2021 to 2022. However, there are some regions where this is not the case. Looking at the South East, we can see that there is a mix of blue and red states in the region. Within the different political parties there is no trend like the previous two regions we looked at. From this we can also note that some regions are highly dominated by one political party while others have a mix. 
+Now when looking at the states within a region, the graph on the bottom also encodes the color of the political party of the state. We can also note that some regions also correlate with political party. As we look at the states in the North Eastern region, we can see that they are all essentially blue states, so a large decrease in these states affect the overall trend for blue states. Similarly, we can see that in the Midwest, most of the states are red states with a decline in year to year change from 2021 to 2022. However, there are some regions where this is not the case. Looking at the South East, we can see that there is a mix of blue and red states in the region. Within the different political parties there is no trend like the previous two regions we looked at. From this we can also note that some regions are highly dominated by one political party while others have a mix. 
 
 <h2 style="text-align: center;">Unemployment</h2>
 
@@ -132,15 +135,15 @@ Let’s also take a look at unemployment and see if that would affect the migrat
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-At first glance, the first thing that points itself out is the general jump in unemployment for the year 2020. This was the year of the COVID lockdown. We can also note that there isn’t much of change in the YoY change as one would expect due to the lockdown, but that is likely due to our data being filled in with averaged values from 2019 and 2021.
+At first glance, the first thing that points itself out is the general jump in unemployment for the year 2020. This was the year of the COVID lockdown. 
 
 The next most notable thing is the range of YoY change for different states, mainly the southern ones compared to the other states. We can see that Georgia, Florida, and Texas have all their points clustered towards the right of their graph, showing their higher YoY change compared to the other states. This aligns with what we have seen earlier about regions as well as the states’ migration influx and outflux values as well. 
 
-Next, we can look at the different states. The first pattern that stands out is again within Florida, Georgia, and Texas. We can see that over time, the unemployment rate drops while the Year over year change oscillates back and forth with the exception of the peaking of unemployment during the year of COVID. For these three states, we can see a peak in year over year change in the years 2015, 2017, and 2022. As of 2022, we can see that the year over year change has been increasing. This aligns with the values we have seen previously when looking at states and regions. These three states from the Southern regions have very similar patterns in terms of unemployment and population change over time. We can also note that the graphs for Florida and Georgia, the Southeastern states, are more than similar with each other.
+The first pattern that stands out is again within Florida, Georgia, and Texas. We can see that over time, the unemployment rate drops while the Year over year change oscillates back and forth with the exception of the peaking of unemployment during the year of COVID. For these three states, we can see a peak in year over year change in the years 2015, 2017, and 2022. As of 2022, we can see that the YoY change has been increasing. This aligns with the values we have seen previously when looking at states and regions. These three states from the Southern regions have very similar patterns in terms of unemployment and population change over time. We can also note that the graphs for Florida and Georgia, the Southeastern states, are more than similar with each other.
 
-Next, we can see that California has a trend of decreasing unemployment overtime with the exception of the spike in 2020, but unlike the southern states, its year over year change generally drops over the years with sudden peaks in 2014 and 2017.
+Next, we can see that California has a trend of decreasing unemployment overtime with the exception of the spike in 2020, but unlike the southern states, its YoY change generally drops over the years with sudden peaks in 2014 and 2017.
 
-Now, looking at the northern states, Illinois and New York, we can see there is a huge jump in year over year change for 2020 and 2021. This is different from the other states that generally had a decrease in year over year change or just a small slight increase. Otherwise overall, unemployment is decreasing like the other states. We can also see that over the years, these states’ year over year change is fluctuating back and forth like the southern states with some peaks at 2017 and 2021, but like California, it is in decline as of 2022.
+Now, looking at the northern states, Illinois and New York, we can see there is a huge jump in YoY change for 2020 and 2021. This is different from the other states that generally had a decrease in year over year change or just a small slight increase. Otherwise overall, unemployment is decreasing like the other states. We can also see that over the years, these states’ YoY change is fluctuating back and forth like the southern states with some peaks at 2017 and 2021, but like California, it is in decline as of 2022.
 
 Surprisingly, when just looking at unemployment and year over year change there isn’t much of a correlation between the two as one would expect people to be moving away from states with high unemployment. We see that depending on the state, the values are scattered around differently for each state.
 
@@ -149,13 +152,17 @@ When looking at unemployment with year over year changes, we can see that the st
 
 <h1 style="text-align: center;"> Conclusion</h1>
 
-TODO
+Let’s do a quick recap on everything we looked at. When going through the migration data, we found that some of the larger states in terms of population had a large net outflux value, but in terms of population percent, they were not necessarily the states that saw the most outflux. We also saw that when people moved there was a large amount of movement from one state or region to nearby areas. 
+
+In general, we see that republican states seem to be growing faster than democratic states, especially since COVID-19. We also saw this trend mainly in the North Eastern region that almost entirely consisted of democratic states which could correlate with the trend we see in the political parties. The North East was not the only region that saw a crash after COVID-19. We also saw this population crash in the midwest and west regions as well. Controversy, we saw a huge influx of people into the southeastern region of the US as well as just movement within the region. 
+
+We can also see these trends when looking at unemployment, while, we found that unemployment itself didn’t seem to have a direct correlation with YoY change across the board, we found that for specific regions or states that were close, there was a general trend among them. When focusing on the states with the largest economies, we could see that over the years, there is a general decrease in unemployment except for the spike in 2020, the COVID-19 lockdown year.
+
+In conclusion, we have found that overall there are a lot of different migration patterns for all the states, but there are some patterns that hold in relation to location, region, parties and unemployment.
+
 
 <h1 style="text-align: center;">The Data</h1>
-
-TODO 
-If you wish to look into migration further, the sources we have used are linked below:
-- Census data
-- Region classification
-- party classification
-
+Census Migration Data
+Region Classifications
+Political Party Classifications
+Unemployment Data
