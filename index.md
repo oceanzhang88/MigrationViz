@@ -162,7 +162,10 @@ In conclusion, we have found that overall there are a lot of different migration
 
 
 <h1 style="text-align: center;">The Data</h1>
-Census Migration Data
-Region Classifications
-Political Party Classifications
-Unemployment Data
+[Census Migration Data](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
+
+[Region Classifications](https://education.nationalgeographic.org/resource/united-states-regions/)
+
+[Political Party Classifications](https://www.270towin.com/historical-presidential-elections/)
+
+[Unemployment Data](https://www.icip.iastate.edu/tables/employment/unemployment-states)
