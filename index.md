@@ -60,7 +60,7 @@ We can also look at these changes geographically on a map and compare certain st
 
 <h2 style="text-align: center;">California vs. Florida</h2>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CAFLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 California, historically has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
 
