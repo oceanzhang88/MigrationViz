@@ -25,27 +25,25 @@ Now we know which states are gaining and losing people, but where are they comin
 
 The chord diagrams below show for each state, the amount of new residents coming from every other state. 
 
-<img src="assets/imgs/chord_all.png" width="250">
-
-![largediagram](/assets/imgs/chord_all.png =250x)
+![largediagram](/assets/imgs/chord_all.png)
 This first one covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
 
-![largediagram](/assets/imgs/chord_california.png =250x)
+![largediagram](/assets/imgs/chord_california.png)
 Here, we see where new California residents are coming from. Major states include Texas, Florida, and New York, plus nearby Washington, Arizona, and Nevada.
 
-![largediagram](/assets/imgs/chord_florida.png =250x)
+![largediagram](/assets/imgs/chord_florida.png)
 New Floridians are coming mainly from New York, some from California, and some from nearby Georgia.
 
-![largediagram](/assets/imgs/chord_georgia.png =250x)
+![largediagram](/assets/imgs/chord_georgia.png)
 Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
 
-![largediagram](/assets/imgs/chord_newyork.png =250x)
+![largediagram](/assets/imgs/chord_newyork.png)
 In New York, many people are coming from Florida and California, as well as nearby Connecticut, Pennsylvania, and New Jersey.
 
-![largediagram](/assets/imgs/chord_northcarolina.png =250x)
+![largediagram](/assets/imgs/chord_northcarolina.png)
 North Carolina has a lot of people coming from other Southern states--Georgia, Florida, and Virginia--plus some from New York, and California.
 
-![largediagram](/assets/imgs/chord_texas.png =250x)
+![largediagram](/assets/imgs/chord_texas.png)
 Finally, Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
 
 Overall, we see that new residents for any given state come from a variety of other states. However, there are still some patterns. A lot of new residents come from nearby states, and a lot come from large states, especially heavy-outflux states like CA and NY, but even heavy-influx states like FL and TX. Major stand-out relationships include New York/Florida, and Texas/California. Notably, migration between these pairs is strong in both directions, even though in each pair one state is growing and the other is declining. For example, many people move from Florida to New York, even though the opposite is also true, and Florida has strong net influx and New York has strong net outflux.
@@ -84,14 +82,16 @@ Despite the differences in the trends between red and blue states, the broad sha
 
 We can see the current situation in 2022 in more detail with this Sankey diagram:
 
-![](/assets/imgs/2022MigrationByPartySankey.png =250x)
+![](/assets/imgs/2022MigrationByPartySankey.png)
 
 Overall, blue states have higher movement in both directions, but red states clearly make up a larger proportion of influx, relative to their outflux (shown by the shift in the central pool of all people moving in 2022).
 
 <h1 style="text-align: center;">Regions</h1>
 Perhaps geographical region has an effect on the movement of people. We can also look at the migration of people by focusing on geographical regions of the United States: North East, South East, South West, Mid West, and West. 
 
-![](/assets/imgs/Chord_all_regions.png =250x)
+
+<img src="/assets/imgs/chord_all.png" width="250">
+![](/assets/imgs/Chord_all_regions.png)
 
 Looking at the chord diagram of the migration of the regions, we can see that the South East has the largest influx of people from all the other regions. But mainly, we can note that almost half of the migration into Southeastern states come from other Southeastern states. Furthermore, looking at all the influx values for other regions, all regions have a large amount of migration within states in their region except for the Southwest region. For states in that region, it seems like there is a large influx from states in the South East and the West. 
 
