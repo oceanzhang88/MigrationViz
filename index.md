@@ -69,9 +69,12 @@ We can also look at these changes geographically on a map and compare certain st
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/TXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-<h1 style="text-align: center;"> Political Party Influence</h1>
+<h1 style="text-align: center;">Migration Correlated with other Factors</h1>
+What could be causing these migration patterns as well as population changes? Below, we have taken a look at political party, regions, as well as unemployment to see if there are any relations with migrations and population change.
 
-What could be causing these migration patterns? Perhaps political party is causing it, or at least correlating with it. This could be due to Republican/Democratic policies or common characteristics of Republican/Democratic-led states.
+<h2 style="text-align: center;"> Political Party Influence</h2>
+
+Perhaps political party is causing it, or at least correlating with it. This could be due to Republican/Democratic policies or common characteristics of Republican/Democratic-led states.
 
 The below graph charts year-over-year population change for every state, colored by political party. The party in each year is determined by the most recent presidential election results, ignoring all else. For example, you can see how Georgia turned blue in 2020. 2020 Census data was also missing, so each state was given a population value interpolated between 2019 and 2021.
 
@@ -93,7 +96,7 @@ We can see the current situation in 2022 in more detail with this Sankey diagram
 
 Overall, blue states have higher movement in both directions, but red states clearly make up a larger proportion of influx, relative to their outflux (shown by the shift in the central pool of all people moving in 2022).
 
-<h1 style="text-align: center;">Regions</h1>
+<h2 style="text-align: center;">Regions</h2>
 Perhaps geographical region has an effect on the movement of people. We can also look at the migration of people by focusing on geographical regions of the United States: North East, South East, South West, Mid West, and West. 
 
 
@@ -121,7 +124,7 @@ Similarly, we can see this trend for midwestern and western states although to a
 
 Now when looking at the states within a region, the graph on the bottom also encodes the color of the political party of the state. We can also note that region can also correlate with political party. As we look at the states in the North Eastern region, we can see that they are all essentially blue states, so a large decrease in these states affect the overall trend for blue states. Similarly, we can see that in the Midwest, most of the states are red states with a decline in year to year change from 2021 to 2022. However, there are some regions where this is not the case. Looking at the South East, we can see that there is a mix of blue and red states in the region. Within the different political parties there is no trend like the previous two regions we looked at. From this we can also note that some regions are highly dominated by one political party while others have a mix. 
 
-<h1 style="text-align: center;">Unemployment</h1>
+<h2 style="text-align: center;">Unemployment</h2>
 
 Let’s also take a look at unemployment and see if that would affect the migration of people. We can look at the employment rate as well as the year over year percent change for some states. The states we have chosen to look at are the ones with the largest economies of each region with the addition of Georgia as that is the state Georgia Tech is located in. 
 
