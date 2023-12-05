@@ -78,13 +78,11 @@ New York State, often perceived as struggling to retain and attract residents du
 
 Migration data reveals that 14 states had a net movement of residents to New York, with the largest influx coming from California.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYTXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 Texas, known for its lower cost of living, low state-tax, and a business-friendly environment, continued to attract newcomers in 2022. Major cities like Austin and Dallas have become magnets for tech professionals and corporations. 
 
 The state welcomed residents from 41 other states, with only 9 states having a net gain of Texans. California, once again, was the primary source state for new Texans.
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/TXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 In conclusion, states traditionally considered population strongholds, like California and New York, experienced a net loss of residents to other states. Conversely, states such as Texas and Florida saw an influx of people from across the nation.
 
