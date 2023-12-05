@@ -28,27 +28,27 @@ We have some chord diagrams below show for each state, the amount of new residen
 ![largediagram](/assets/imgs/chord_all.png)
 This first one covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
 
-<h3 style="text-align: center;">California</h3>
+<h3>California</h3>
 ![largediagram](/assets/imgs/chord_california.png)
 Here, we see where new California residents are coming from. Major states include Texas, Florida, and New York, plus nearby Washington, Arizona, and Nevada.
 
-<h3 style="text-align: center;">Florida</h3>
+<h3>Florida</h3>
 ![largediagram](/assets/imgs/chord_florida.png)
 New Floridians are coming mainly from New York, some from California, and some from nearby Georgia.
 
-<h3 style="text-align: center;">Georgia</h3>
+<h3>Georgia</h3>
 ![largediagram](/assets/imgs/chord_georgia.png)
 Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
 
-<h3 style="text-align: center;">New York</h3>
+<h3>New York</h3>
 ![largediagram](/assets/imgs/chord_newyork.png)
 In New York, many people are coming from Florida and California, as well as nearby Connecticut, Pennsylvania, and New Jersey.
 
-<h3 style="text-align: center;">North Carolina</h3>
+<h3>North Carolina</h3>
 ![largediagram](/assets/imgs/chord_northcarolina.png)
 North Carolina has a lot of people coming from other Southern states--Georgia, Florida, and Virginia--plus some from New York, and California.
 
-<h3 style="text-align: center;">Texas</h3>
+<h3>Texas</h3>
 ![largediagram](/assets/imgs/chord_texas.png)
 Finally, Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
 
