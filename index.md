@@ -44,16 +44,16 @@ Overall, we see that new residents for any given state come from a variety of ot
 
 <h1 style="text-align: center;">California vs. Florida</h1>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 
 <h1 style="text-align: center;">New York vs. Texas</h1>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/TXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/TXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;"> Political Party Influence</h1>
 
