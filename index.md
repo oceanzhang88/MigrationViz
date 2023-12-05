@@ -80,7 +80,7 @@ When looking at Texas, we see that it continued to attract many newcomers in 202
 
 We can also note that for both these states, we also see a loss to states in the South East while gaining people from California.
 
-In conclusion, states traditionally considered population strongholds, like California and New York, experienced a net loss of residents to other states. Conversely, states such as Texas and Florida saw an influx of people from across the nation. All across the board, we see that these states all lost people to states in the South East region.
+In conclusion, states traditionally with larger populations, like California and New York, experienced a net loss of residents to other states. While, states such as Texas and Florida saw an influx of people from across the nation. All across the board, we see that these states all lost people to states in the South East region.
 
 
 <h1 style="text-align: center;">Migration Correlated with other Factors</h1>
