@@ -58,7 +58,7 @@ Overall, we see that new residents for any given state come from a variety of ot
 
 We can also look at these changes geographically on a map and compare certain states. We have mainly picked out comparing California and Florida as well as New York and Texas.
 
-<h3>California vs. Florida</h3>
+<h2 style="text-align: center;">California vs. Florida</h2>
 
 California, historically known for its robust population growth, has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
 
@@ -74,7 +74,7 @@ In 2022, Florida experienced a net influx from 39 states, with only 11 states re
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-<h3>New York vs. Texas</h3>
+<h2 style="text-align: center;">New York vs. Texas</h2>
 
 New York State, often perceived as struggling to retain and attract residents due to high living and housing costs, along with tax considerations, showed a more positive trend in 2022. 
 
