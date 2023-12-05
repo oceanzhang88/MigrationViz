@@ -25,6 +25,8 @@ Now we know which states are gaining and losing people, but where are they comin
 
 The chord diagrams below show for each state, the amount of new residents coming from every other state. 
 
+<img src="/assets/imgs/chord_all.png" width="250">
+
 ![largediagram](/assets/imgs/chord_all.png =250x)
 This first one covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
 
@@ -89,7 +91,7 @@ Overall, blue states have higher movement in both directions, but red states cle
 <h1 style="text-align: center;">Regions</h1>
 Perhaps geographical region has an effect on the movement of people. We can also look at the migration of people by focusing on geographical regions of the United States: North East, South East, South West, Mid West, and West. 
 
-![largediagram](/assets/imgs/Chord_all_regions.png =250x)
+![](/assets/imgs/Chord_all_regions.png =250x)
 
 Looking at the chord diagram of the migration of the regions, we can see that the South East has the largest influx of people from all the other regions. But mainly, we can note that almost half of the migration into Southeastern states come from other Southeastern states. Furthermore, looking at all the influx values for other regions, all regions have a large amount of migration within states in their region except for the Southwest region. For states in that region, it seems like there is a large influx from states in the South East and the West. 
 
