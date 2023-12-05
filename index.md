@@ -95,7 +95,8 @@ Looking at the chord diagram of the migration of the regions, we can see that th
 
 If we look at each individual region, we can see that different regions have different distribution of influx from the other regions. Let’s go through the different regions discounting the internal movement within the regions, as we have seen that is the main influx type movement we see for most regions. 
 
-![](/assets/imgs/Selected_regions_chord.png)
+<!-- ![](/assets/imgs/Selected_regions_chord.png) -->
+<div style="text-align:center"><img src="/assets/imgs/Selected_regions_chord.png" /></div>
 
 Starting with the North East, we see that states in the region as a whole see a larger influx from states in the South East. And this larger influx is significantly larger than the other regions. Next, we can look at the South East, and unlike the North East, the influx from other regions are very similar in value with the exception of the South West being a smaller proportion. For the West, we see that the largest influx is from the South West and East with the least amount coming from the North East region. Now for the South West, we see that the largest influx is from the South East and the West. The Midwest sees its main influx from the South East and the West.
 
@@ -143,6 +144,3 @@ If you wish to look into migration further, the sources we have used are linked 
 - Region classification
 - party classification
 
-<!-- 
-### Time to show some Pokemon
-![](/assets/imgs/pokemon.jpg) -->
