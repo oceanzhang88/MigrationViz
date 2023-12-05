@@ -25,7 +25,7 @@ Now we know which states are gaining and losing people, but where are they comin
 
 The chord diagrams below show for each state, the amount of new residents coming from every other state. 
 
-<img src="/assets/imgs/chord_all.png" width="250">
+<img src="assets/imgs/chord_all.png" width="250">
 
 ![largediagram](/assets/imgs/chord_all.png =250x)
 This first one covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
