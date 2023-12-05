@@ -179,7 +179,7 @@ In conclusion, we have found that overall there are a lot of different migration
 
 <h2> Check out a state of your choosing</h2>
 Take a look at all the data, and click on a state on the map that you would like to get more insight on!
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1400' height = '1100' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;">The Data</h1>
 [Census Migration Data](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
