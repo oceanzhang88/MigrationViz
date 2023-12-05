@@ -1,6 +1,6 @@
 Here we explore migration between states in the United States. As people move from one state to another for a variety of reasons, this migration not only reflects individual choices but also reflects and influences the economic, social, and political fabric of each state. Understanding the patterns and drivers of interstate migration is crucial in deciphering the ever-evolving fabric of American society. Where are people leaving and going, why do people relocate, and what factors make a state desirable or not? Whether driven by economic opportunities, politics, or other factors, the movement of people within the U.S. is a compelling narrative that merits exploration.
 
-Our migration data comes from the US Census, and we use a variety of other sources for election results, unemployment rates, region classification, and more. Links can be found at the bottom of this page. Note that the Census data was missing for 2020, likely due to the pandemic, so to keep our temporal visualizations reasonable, we filled it in by averaging the population number for each state in 2019 and 2021.
+Our migration data comes from the US Census, and we use a variety of other sources for election results, unemployment rates, region classification, and more. Links can be found at the bottom of this page. <b>Note that the Census data was missing for 2020, likely due to the pandemic, so to keep our temporal visualizations reasonable, we filled it in by averaging the population number for each state in 2019 and 2021.<b>
 
 <h1 style="text-align: center;">Migration Overview</h1>
 
@@ -10,39 +10,45 @@ First, let’s look at what’s happening currently in the country--which states
 
 We see strong growth in the Southeast and Southwest, and declines in the West Coast and Northeast. Major states like Texas, Florida, New York, and California get the most attention, not just because they have huge absolute numbers of in and out movement, but also the sharpest changes--New York has the highest relative net outflux, and Florida has the highest net influx absolutely and relatively.
 
-Here is a comprehensive overview of population shifts from 2018 to 2022. Through the control widgets, we can see both totals and percentage changes relative to the total population, as well as sort them by Influx, Outflux, and Alphabetically by state. There is also a slider to control the year.
+Now lets look at a comprehensive overview of population shifts for all the states from 2018 to 2022. Through the control widgets, we can see both totals and percentage changes relative to the total population, as well as sort them by Influx, Outflux, and Alphabetically by state. A year slider is provided to look at different years.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationMigration_17017506894240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-The most obvious insight is the large outflux of people from California, especially in 2021. There is also a sizable influx into Florida during all years. Starting in 2021, there is a major shift for New York, as the number of people leaving jumps from 450k to nearly 600k. Sorting by influx, we can see that there is a pattern of people moving into southeastern states such as North Carolina, Georgia, and Virginia. 
+The first thing to note is the large outflux of people from California, especially in 2021. There is also a sizable influx into Florida during all years. Starting in 2021, there is a major shift for New York, as the number of people leaving jumps from 450k to nearly 600k. Sorting by influx, we can see that there is a pattern of people moving into southeastern states such as North Carolina, Georgia, and Virginia. 
 
-If we show the migration changes as a percentage of population, we can see that the influx and outflux has a bias towards less popular states such as Wyoming, North Dakota, Alaska, and Delaware. Most states have around a 4-5% influx and outflux rate, however Washington DC in all years notably has over double the percentage changes of most other states. The non-mainland states of Alaska and Hawaii are also note-worthy for generally have high Outflux rates.
+Now, if we change it up and show the migration changes as a percentage of population, we can see that the influx and outflux percentage wise is higher in less populated states such as Wyoming, North Dakota, Alaska, and Delaware. Most states have around a 4-5% influx and outflux rate; however, Washington DC in all years notably has over double the percentage changes of most other states. The non-mainland states of Alaska and Hawaii are also note-worthy for having high Outflux rates.
 
 
 <h1 style="text-align: center;">Where did people go</h1>
 
 Now we know which states are gaining and losing people, but where are they coming from and going? In other words, which states have a strong relationship in terms of migration between them?
 
-The chord diagrams below show for each state, the amount of new residents coming from every other state. 
+We have some chord diagrams below show for each state, the amount of new residents coming from every other state. Let's go over the large states we have already noted like California, Florida, New York, and Texas. We can also look at the trends for a couple more states, mainly North Carolina and Georgia as we see that they are seeing a high influx of people.
 
 ![largediagram](/assets/imgs/chord_all.png)
 This first one covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
 
+<h3 style="text-align: center;">California</h3>
 ![largediagram](/assets/imgs/chord_california.png)
 Here, we see where new California residents are coming from. Major states include Texas, Florida, and New York, plus nearby Washington, Arizona, and Nevada.
 
+<h3 style="text-align: center;">Florida</h3>
 ![largediagram](/assets/imgs/chord_florida.png)
 New Floridians are coming mainly from New York, some from California, and some from nearby Georgia.
 
+<h3 style="text-align: center;">Georgia</h3>
 ![largediagram](/assets/imgs/chord_georgia.png)
 Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
 
+<h3 style="text-align: center;">New York</h3>
 ![largediagram](/assets/imgs/chord_newyork.png)
 In New York, many people are coming from Florida and California, as well as nearby Connecticut, Pennsylvania, and New Jersey.
 
+<h3 style="text-align: center;">North Carolina</h3>
 ![largediagram](/assets/imgs/chord_northcarolina.png)
 North Carolina has a lot of people coming from other Southern states--Georgia, Florida, and Virginia--plus some from New York, and California.
 
+<h3 style="text-align: center;">Texas</h3>
 ![largediagram](/assets/imgs/chord_texas.png)
 Finally, Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
 
@@ -90,7 +96,6 @@ Overall, blue states have higher movement in both directions, but red states cle
 Perhaps geographical region has an effect on the movement of people. We can also look at the migration of people by focusing on geographical regions of the United States: North East, South East, South West, Mid West, and West. 
 
 
-<img src="/assets/imgs/chord_all.png" width="250">
 ![](/assets/imgs/Chord_all_regions.png)
 
 Looking at the chord diagram of the migration of the regions, we can see that the South East has the largest influx of people from all the other regions. But mainly, we can note that almost half of the migration into Southeastern states come from other Southeastern states. Furthermore, looking at all the influx values for other regions, all regions have a large amount of migration within states in their region except for the Southwest region. For states in that region, it seems like there is a large influx from states in the South East and the West. 
@@ -121,17 +126,20 @@ Let’s also take a look at unemployment and see if that would affect the migrat
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '1100' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-At first glance, the first thing that points itself out is the general jump in unemployment for the year 2020. This was the year of the COVID lockdown. 
+At first glance, the first thing that points itself out is the general jump in unemployment for the year 2020. This was the year of the COVID lockdown. We can also note that there isn’t much of change in the YoY change as one would expect due to the lockdown, but that is likely due to our data being filled in with averaged values from 2019 and 2021.
 
-Next, we can look at the different states. The first pattern that stands out is within Florida, Georgia, and Texas, we can see that over time, the unemployment rate drops while the Year over year change oscillates back and forth with the exception of the peaking of unemployment during the year of COVID. For these three states, we can see a peak in year over year change in the years 2015, 2017, and 2022. As of 2022, we can see that the year over year change has been increasing. This aligns with the values we have seen previously when looking at states and regions. These three states from the Southern regions have very similar patterns in terms of unemployment and population change over time. We can also note that the graphs for Florida and Georgia, the Southeastern states, are more than similar with each other.
+The next most notable thing is the range of YoY change for different states, mainly the southern ones compared to the other states. We can see that Georgia, Florida, and Texas have all their points clustered towards the right of their graph, showing their higher YoY change compared to the other states. This aligns with what we have seen earlier about regions as well as the states’ migration influx and outflux values as well. 
+
+Next, we can look at the different states. The first pattern that stands out is again within Florida, Georgia, and Texas. We can see that over time, the unemployment rate drops while the Year over year change oscillates back and forth with the exception of the peaking of unemployment during the year of COVID. For these three states, we can see a peak in year over year change in the years 2015, 2017, and 2022. As of 2022, we can see that the year over year change has been increasing. This aligns with the values we have seen previously when looking at states and regions. These three states from the Southern regions have very similar patterns in terms of unemployment and population change over time. We can also note that the graphs for Florida and Georgia, the Southeastern states, are more than similar with each other.
 
 Next, we can see that California has a trend of decreasing unemployment overtime with the exception of the spike in 2020, but unlike the southern states, its year over year change generally drops over the years with sudden peaks in 2014 and 2017.
 
 Now, looking at the northern states, Illinois and New York, we can see there is a huge jump in year over year change for 2020 and 2021. This is different from the other states that generally had a decrease in year over year change or just a small slight increase. Otherwise overall, unemployment is decreasing like the other states. We can also see that over the years, these states’ year over year change is fluctuating back and forth like the southern states with some peaks at 2017 and 2021, but like California, it is in decline as of 2022.
 
-Surprisingly, when just looking at unemployment and year over year change there isn’t much of a correlation between the two as one would expect people to be moving away from states with high unemployment. 
+Surprisingly, when just looking at unemployment and year over year change there isn’t much of a correlation between the two as one would expect people to be moving away from states with high unemployment. We see that depending on the state, the values are scattered around differently for each state.
 
 When looking at unemployment with year over year changes, we can see that the states with larger economies see a general decrease in unemployment over the years with the exception of 2020. We also see that in general the year over year change fluctuates with different peaks for states in different areas, but for all the selected states, there was a peak in year over year change in 2017.
+
 
 <h1 style="text-align: center;"> Conclusion</h1>
 
