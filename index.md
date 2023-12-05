@@ -60,19 +60,36 @@ We can also look at these changes geographically on a map and compare certain st
 
 <h3>California vs. Florida</h3>
 
+California, historically known for its robust population growth, has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
+
+However, the state faced a notable shift in 2022. High living costs and housing affordability issues might lead to a migration trend where more people moved from California to 43 other states than the reverse. Intriguingly, only 7 states saw more people moving to California than leaving it. 
+
+Texas emerged as the top destination for Californians, while New Jersey notably saw more people relocating to California than vice versa.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
+
+Meanwhile, Florida has become increasingly attractive, drawing residents with its lower cost of living, favorable tax environment, and relaxed lifestyle. This appeal is particularly strong among retired people. 
+
+In 2022, Florida experienced a net influx from 39 states, with only 11 states receiving more Floridians than they sent. New York topped the list of states from which residents moved to Florida.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-analysis here
-
 <h3>New York vs. Texas</h3>
+
+New York State, often perceived as struggling to retain and attract residents due to high living and housing costs, along with tax considerations, showed a more positive trend in 2022. 
+
+Migration data reveals that 14 states had a net movement of residents to New York, with the largest influx coming from California.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
+Texas, known for its lower cost of living, low state-tax, and a business-friendly environment, continued to attract newcomers in 2022. Major cities like Austin and Dallas have become magnets for tech professionals and corporations. 
+
+The state welcomed residents from 41 other states, with only 9 states having a net gain of Texans. California, once again, was the primary source state for new Texans.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/TXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-analysis here
+In conclusion, states traditionally considered population strongholds, like California and New York, experienced a net loss of residents to other states. Conversely, states such as Texas and Florida saw an influx of people from across the nation.
+
 
 <h1 style="text-align: center;">Migration Correlated with other Factors</h1>
 Now that we have looked at some migration patterns, we should ask a question about why. What could be causing these migration patterns as well as population changes? Below, we have taken a look at political party, regions, as well as unemployment to see if there are any relations with migrations and population change.
