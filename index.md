@@ -80,6 +80,12 @@ Looking at a select few large states, we see the gap between red and blue even m
 
 Despite the differences in the trends between red and blue states, the broad shape of their trend lines is similar in both graphs; the local minimums and maximums occur at similar times. This indicates periods of lower vs. higher growth that affect all states nationwide, regardless of party.
 
+We can see the current situation in 2022 in more detail with this Sankey diagram:
+
+![](/assets/imgs/2022MigrationByPartySankey.png)
+
+Overall, blue states have higher movement in both directions, but red states clearly make up a larger proportion of influx, relative to their outflux (shown by the shift in the central pool of all people moving in 2022).
+
 <h1 style="text-align: center;">Regions</h1>
 Perhaps geographical region has an effect on the movement of people. We can also look at the migration of people by focusing on geographical regions of the United States: North East, South East, South West, Mid West, and West. 
 
