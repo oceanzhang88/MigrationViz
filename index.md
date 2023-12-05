@@ -10,7 +10,7 @@ First, let’s look at what’s happening currently in the country--which states
 
 We see strong growth in the Southeast and Southwest, and declines in the West Coast and Northeast. Major states like Texas, Florida, New York, and California get the most attention, not just because they have huge absolute numbers of in and out movement, but also the sharpest changes--New York has the highest relative net outflux, and Florida has the highest net influx absolutely and relatively.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationMigration_17017506894240/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationMigration_17017506894240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;">Where did people go</h1>
 
