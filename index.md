@@ -36,33 +36,34 @@ Here, we see where new California residents are coming from. Major states includ
 ![largediagram](/assets/imgs/chord_florida.png)
 New Floridians are coming mainly from New York, some from California, and some from nearby Georgia.
 
-<h3>Georgia</h3>
-![largediagram](/assets/imgs/chord_georgia.png)
-Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
-
 <h3>New York</h3>
 ![largediagram](/assets/imgs/chord_newyork.png)
 In New York, many people are coming from Florida and California, as well as nearby Connecticut, Pennsylvania, and New Jersey.
-
-<h3>North Carolina</h3>
-![largediagram](/assets/imgs/chord_northcarolina.png)
-North Carolina has a lot of people coming from other Southern states--Georgia, Florida, and Virginia--plus some from New York, and California.
 
 <h3>Texas</h3>
 ![largediagram](/assets/imgs/chord_texas.png)
 Finally, Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
 
+<h3>North Carolina</h3>
+![largediagram](/assets/imgs/chord_northcarolina.png)
+North Carolina has a lot of people coming from other Southern states--Georgia, Florida, and Virginia--plus some from New York, and California.
+
+<h3>Georgia</h3>
+![largediagram](/assets/imgs/chord_georgia.png)
+Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
+
 Overall, we see that new residents for any given state come from a variety of other states. However, there are still some patterns. A lot of new residents come from nearby states, and a lot come from large states, especially heavy-outflux states like CA and NY, but even heavy-influx states like FL and TX. Major stand-out relationships include New York/Florida, and Texas/California. Notably, migration between these pairs is strong in both directions, even though in each pair one state is growing and the other is declining. For example, many people move from Florida to New York, even though the opposite is also true, and Florida has strong net influx and New York has strong net outflux.
 
+We can also look at these changes geographically on a map and compare certain states. We have mainly picked out comparing California and Florida as well as New York and Texas.
 
-<h4 style="text-align: center;">California vs. Florida</h4>
+<h3>California vs. Florida</h3>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 
-<h4 style="text-align: center;">New York vs. Texas</h4>
+<h3>New York vs. Texas</h3>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
