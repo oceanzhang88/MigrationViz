@@ -60,17 +60,15 @@ We can also look at these changes geographically on a map and compare certain st
 
 <h2 style="text-align: center;">California vs. Florida</h2>
 
-California, historically known for its robust population growth, has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
-
-However, the state faced a notable shift in 2022. High living costs and housing affordability issues might lead to a migration trend where more people moved from California to 43 other states than the reverse. Intriguingly, only 7 states saw more people moving to California than leaving it. 
-
-Texas emerged as the top destination for Californians, while New Jersey notably saw more people relocating to California than vice versa.
-
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-Meanwhile, Florida has become increasingly attractive, drawing residents with its lower cost of living, favorable tax environment, and relaxed lifestyle. This appeal is particularly strong among retired people. 
+California, historically known for its robust population growth, has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
 
-In 2022, Florida experienced a net influx from 39 states, with only 11 states receiving more Floridians than they sent. New York topped the list of states from which residents moved to Florida.
+However, we can see that there is currently a decline now. From the map, we see that only 7 states saw more people moving to California than leaving it. For all the states that saw an influx of people from California, Texas emerged as the top destination for Californians, while for the states seeing an outflux to California, New Jersey notably saw the most people relocating to California than vice versa.
+
+Meanwhile, Florida has become increasingly attractive for people to move to. We can see that there is a net influx of people to Florida from many states all over the US except for the ones mainly in the South Eastern region and Texas. For all the states with a net influx to Flordia, we can note that New York is the largest state where people move to Florida from.
+
+In the case of both these states, Florida saw a lot more influx from all states than California, but for them both, the states where the outflux to other states resulted in a net loss were states closer to them geographically. 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
