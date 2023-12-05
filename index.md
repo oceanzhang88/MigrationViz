@@ -60,13 +60,13 @@ We can also look at these changes geographically on a map and compare certain st
 
 <h2 style="text-align: center;">California vs. Florida</h2>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CAFLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
-
 California, historically known for its robust population growth, has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
 
 However, the state faced a notable shift in 2022. High living costs and housing affordability issues might lead to a migration trend where more people moved from California to 43 other states than the reverse. Intriguingly, only 7 states saw more people moving to California than leaving it. 
 
 Texas emerged as the top destination for Californians, while New Jersey notably saw more people relocating to California than vice versa.
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CAFLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 Meanwhile, Florida has become increasingly attractive, drawing residents with its lower cost of living, favorable tax environment, and relaxed lifestyle. This appeal is particularly strong among retired people. 
 
