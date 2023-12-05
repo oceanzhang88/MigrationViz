@@ -1,3 +1,5 @@
+---
+---
 
 @import "{{ site.theme }}";
 
@@ -9,5 +11,7 @@ footer {
   display: none;
 }
 
-img[alt=largediagram] { width: 600px; 
-align-content: center;}
+img[alt=largediagram] { 
+  width: 600px; 
+  align-content: center;
+}
