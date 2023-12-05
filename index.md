@@ -62,7 +62,7 @@ We can also look at these changes geographically on a map and compare certain st
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-California, historically known for its robust population growth, has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
+California, historically has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
 
 However, we can see that there is currently a decline now. From the map, we see that only 7 states saw more people moving to California than leaving it. For all the states that saw an influx of people from California, Texas emerged as the top destination for Californians, while for the states seeing an outflux to California, New Jersey notably saw the most people relocating to California than vice versa.
 
@@ -72,17 +72,15 @@ In the case of both these states, Florida saw a lot more influx from all states 
 
 <h2 style="text-align: center;">New York vs. Texas</h2>
 
-New York State, often perceived as struggling to retain and attract residents due to high living and housing costs, along with tax considerations, showed a more positive trend in 2022. 
-
-Migration data reveals that 14 states had a net movement of residents to New York, with the largest influx coming from California.
-
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYTXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-Texas, known for its lower cost of living, low state-tax, and a business-friendly environment, continued to attract newcomers in 2022. Major cities like Austin and Dallas have become magnets for tech professionals and corporations. 
+When looking at New York, migration data reveals that 14 states had a net positive movement of residents to New York, with the largest influx coming from California. From the graph, we can also see that New York is gaining its population from many states in the West and well as Midwest, but it is also lossing a lot more people to states in the South East and Texas. 
 
-The state welcomed residents from 41 other states, with only 9 states having a net gain of Texans. California, once again, was the primary source state for new Texans.
+When looking at Texas, we see that it continued to attract many newcomers in 2022. The state welcomed a positive amount of residents from 41 other states. Like we saw before, California was the primary source of people moving into Texas.
 
-In conclusion, states traditionally considered population strongholds, like California and New York, experienced a net loss of residents to other states. Conversely, states such as Texas and Florida saw an influx of people from across the nation.
+We can also note that for both these states, we also see a loss to states in the South East while gaining people from California.
+
+In conclusion, states traditionally considered population strongholds, like California and New York, experienced a net loss of residents to other states. Conversely, states such as Texas and Florida saw an influx of people from across the nation. All across the board, we see that these states all lost people to states in the South East region.
 
 
 <h1 style="text-align: center;">Migration Correlated with other Factors</h1>
