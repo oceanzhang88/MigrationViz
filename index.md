@@ -10,7 +10,14 @@ First, let’s look at what’s happening currently in the country--which states
 
 We see strong growth in the Southeast and Southwest, and declines in the West Coast and Northeast. Major states like Texas, Florida, New York, and California get the most attention, not just because they have huge absolute numbers of in and out movement, but also the sharpest changes--New York has the highest relative net outflux, and Florida has the highest net influx absolutely and relatively.
 
+Here is a comprehensive overview of population shifts from 2018 to 2022. Through the control widgets, we can see both totals and percentage changes relative to the total population, as well as sort them by Influx, Outflux, and Alphabetically by state. There is also a slider to control the year.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationMigration_17017506894240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+
+The most obvious insight is the large outflux of people from California, especially in 2021. There is also a sizable influx into Florida during all years. Starting in 2021, there is a major shift for New York, as the number of people leaving jumps from 450k to nearly 600k. Sorting by influx, we can see that there is a pattern of people moving into southeastern states such as North Carolina, Georgia, and Virginia. 
+
+If we show the migration changes as a percentage of population, we can see that the influx and outflux has a bias towards less popular states such as Wyoming, North Dakota, Alaska, and Delaware. Most states have around a 4-5% influx and outflux rate, however Washington DC in all years notably has over double the percentage changes of most other states. The non-mainland states of Alaska and Hawaii are also note-worthy for generally have high Outflux rates.
+
 
 <h1 style="text-align: center;">Where did people go</h1>
 
