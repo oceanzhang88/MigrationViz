@@ -49,14 +49,14 @@ Finally, Texas has huge migration from California, some from Florida and New Yor
 Overall, we see that new residents for any given state come from a variety of other states. However, there are still some patterns. A lot of new residents come from nearby states, and a lot come from large states, especially heavy-outflux states like CA and NY, but even heavy-influx states like FL and TX. Major stand-out relationships include New York/Florida, and Texas/California. Notably, migration between these pairs is strong in both directions, even though in each pair one state is growing and the other is declining. For example, many people move from Florida to New York, even though the opposite is also true, and Florida has strong net influx and New York has strong net outflux.
 
 
-<h1 style="text-align: center;">California vs. Florida</h1>
+<h4 style="text-align: center;">California vs. Florida</h4>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CABoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/FLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 
-<h1 style="text-align: center;">New York vs. Texas</h1>
+<h4 style="text-align: center;">New York vs. Texas</h4>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '750' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
