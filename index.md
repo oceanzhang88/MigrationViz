@@ -23,10 +23,12 @@ Now, if we change it up and show the migration changes as a percentage of popula
 
 Now we know which states are gaining and losing people, but where are they coming from and going? In other words, which states have a strong relationship in terms of migration between them?
 
-We have some chord diagrams below show for each state, the amount of new residents coming from every other state. Let's go over the large states we have already noted like California, Florida, New York, and Texas. We can also look at the trends for a couple more states, mainly North Carolina and Georgia as we see that they are seeing a high influx of people.
+We have some chord diagrams below show for each state, the amount of new residents coming from every other state. 
 
 ![largediagram](/assets/imgs/chord_all.png)
-This first one covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
+This first chord diagram covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
+
+Let's also highlight and go over the large states we have already noted like California, Florida, New York, and Texas. We can also look at the trends for a couple more states, mainly North Carolina and Georgia as we see that they are seeing a high influx of people.
 
 <h3>California</h3>
 ![largediagram](/assets/imgs/chord_california.png)
