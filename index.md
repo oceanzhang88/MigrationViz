@@ -154,7 +154,7 @@ Now when looking at the states within a region, the graph on the bottom also enc
 
 Let’s also take a look at unemployment and see if that would affect the migration of people. We can look at the employment rate as well as the year over year percent change for some states. The states we have chosen to look at are the ones with the largest economies of each region with the addition of Georgia as that is the state Georgia Tech is located in. 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '1100' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 At first glance, the first thing that points itself out is the general jump in unemployment for the year 2020. This was the year of the COVID lockdown. 
 
@@ -183,7 +183,7 @@ In conclusion, we have found that overall there are a lot of different migration
 
 <h2> Check out a state of your choosing</h2>
 Take a look at all the data, and click on a state on the map that you would like to get more insight on!
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '900' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;">The Data</h1>
 [Census Migration Data](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
