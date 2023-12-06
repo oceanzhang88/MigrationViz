@@ -54,35 +54,31 @@ North Carolina has a lot of people coming from other Southern states--Georgia, F
 ![largediagram](/assets/imgs/chord_georgia.png)
 Finally, Georgia has a lot of new residents from Florida, and nearby Southern states like Tennessee, Alabama, and North Carolina. Some New Yorkers and Californians are also moving there.
 
-Overall, we see that new residents for any given state come from a variety of other states. However, there are still some patterns. A lot of new residents come from nearby states, and a lot come from large states, especially heavy-outflux states like CA and NY, but even heavy-influx states like FL and TX. Major stand-out relationships include New York/Florida, and Texas/California. Notably, migration between these pairs is strong in both directions, even though in each pair one state is growing and the other is declining. For example, many people move from Florida to New York, even though the opposite is also true, and Florida has strong net influx and New York has strong net outflux.
+Overall, we see that new residents for any given state come from a variety of other states. However, there are still some patterns. A lot of new residents come from nearby states, and a lot come from large states, especially heavy-outflux states like California and New York, but even heavy-influx states like Florida and Texas. Major stand-out relationships include New York/Florida, and Texas/California. Notably, migration between these pairs is strong in both directions, even though in each pair one state is growing and the other is declining. For example, many people move from Florida to New York, even though the opposite is also true, and Florida has strong net influx and New York has strong net outflux.
 
-We can also look at these changes geographically on a map and compare certain states. We have mainly picked out comparing California and Florida as well as New York and Texas.
+We can also look at these changes geographically on a map and compare certain states. We have mainly picked out comparing California and Texas as well as New York and Florida due to the patterns we have seen above. California sees a lot of its people leaving and going to Texas while New York sees that happening with Florida.
 
 <h2 style="text-align: center;">California vs. Texas</h2>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CAFLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-California, historically has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. 
+California, historically has been a beacon for those seeking opportunities in the tech industry, diverse job markets, and cultural richness. However, we can see that there is currently a decline now with most states actually gaining more people from California than losing people to California. From the map, we see that only 7 states saw more people moving to California than leaving it. For all the states that saw an influx of people from California, Texas emerged as the top destination for Californians, while for the states seeing an outflux to California, New Jersey saw the most people relocating to California than vice versa.
 
-However, we can see that there is currently a decline now. From the map, we see that only 7 states saw more people moving to California than leaving it. For all the states that saw an influx of people from California, Texas emerged as the top destination for Californians, while for the states seeing an outflux to California, New Jersey notably saw the most people relocating to California than vice versa.
+When looking at Texas, we see that it continued to attract many newcomers in 2022. The state welcomed a positive amount of residents from 41 other states. Like we saw before, California was notably the primary source of people moving into Texas. The net difference of people going between Texas from California was significantly larger compared to all other states.
 
-When looking at Texas, we see that it continued to attract many newcomers in 2022. The state welcomed a positive amount of residents from 41 other states. Like we saw before, California was the primary source of people moving into Texas.
-
-We can also note that for both these states, we also see a loss to states in the South East while gaining people from California.
+We can also note that for both these states, we also see a loss to states in the South East. We also see that for California, it lost most of its residents to the western states as well those south eastern states, but those states highlight a good portion for the influx of people into Texas.
 
 <h2 style="text-align: center;">New York vs. Florida</h2>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYTXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
-When looking at New York, migration data reveals that 14 states had a net positive movement of residents to New York, with the largest influx coming from California. From the graph, we can also see that New York is gaining its population from many states in the West and well as Midwest, but it is also lossing a lot more people to states in the South East and Texas. 
+When looking at New York, migration data reveals that 14 states had a net positive movement of residents to New York, with the largest influx coming from California. From the graph, we can also see that New York is gaining its population from many states in the West and well as Midwest, but it is also losing a lot more people to states in the South East and Texas. We can also note that the state that had the largest net influx from New York is Florida. 
 
 Meanwhile, Florida has become increasingly attractive for people to move to. We can see that there is a net influx of people to Florida from many states all over the US except for the ones mainly in the South Eastern region and Texas. For all the states with a net influx to Flordia, we can note that New York is the largest state where people move to Florida from.
 
 In the case of both these states, Florida saw a lot more influx from all states than New York, but for them both, the states where the outflux to other states resulted in a net loss were states closer to them geographically. 
 
-
-In conclusion, states traditionally with larger populations, like California and New York, experienced a net loss of residents to other states. While, states such as Texas and Florida saw an influx of people from across the nation. All across the board, we see that these states all lost people to states in the South East region.
-
+In conclusion, states traditionally with larger populations, like California and New York, experienced a net loss of residents to other states mainly Texas in Florida. We can see that for those two states, California and New York were the states that had the highest influx for Texas and Florida respectively. We can also notice that Texas and Florida saw an influx of people from across the nation, but all across the board, we see that these states all lost people to states in the South East region.
 
 <h1 style="text-align: center;">Migration Correlated with other Factors</h1>
 Now that we have looked at some migration patterns, we should ask a question about why. What could be causing these migration patterns as well as population changes? Below, we have taken a look at political party, regions, as well as unemployment to see if there are any relations with migrations and population change.
