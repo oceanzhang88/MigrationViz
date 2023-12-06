@@ -58,7 +58,7 @@ Overall, we see that new residents for any given state come from a variety of ot
 
 We can also look at these changes geographically on a map and compare certain states. We have mainly picked out comparing California and Florida as well as New York and Texas.
 
-<h2 style="text-align: center;">California vs. Florida</h2>
+<h2 style="text-align: center;">California vs. Texas</h2>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/CAFLBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
@@ -66,19 +66,20 @@ California, historically has been a beacon for those seeking opportunities in th
 
 However, we can see that there is currently a decline now. From the map, we see that only 7 states saw more people moving to California than leaving it. For all the states that saw an influx of people from California, Texas emerged as the top destination for Californians, while for the states seeing an outflux to California, New Jersey notably saw the most people relocating to California than vice versa.
 
-Meanwhile, Florida has become increasingly attractive for people to move to. We can see that there is a net influx of people to Florida from many states all over the US except for the ones mainly in the South Eastern region and Texas. For all the states with a net influx to Flordia, we can note that New York is the largest state where people move to Florida from.
+When looking at Texas, we see that it continued to attract many newcomers in 2022. The state welcomed a positive amount of residents from 41 other states. Like we saw before, California was the primary source of people moving into Texas.
 
-In the case of both these states, Florida saw a lot more influx from all states than California, but for them both, the states where the outflux to other states resulted in a net loss were states closer to them geographically. 
+We can also note that for both these states, we also see a loss to states in the South East while gaining people from California.
 
-<h2 style="text-align: center;">New York vs. Texas</h2>
+<h2 style="text-align: center;">New York vs. Florida</h2>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Project2_17017442470190/NYTXBoard?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 When looking at New York, migration data reveals that 14 states had a net positive movement of residents to New York, with the largest influx coming from California. From the graph, we can also see that New York is gaining its population from many states in the West and well as Midwest, but it is also lossing a lot more people to states in the South East and Texas. 
 
-When looking at Texas, we see that it continued to attract many newcomers in 2022. The state welcomed a positive amount of residents from 41 other states. Like we saw before, California was the primary source of people moving into Texas.
+Meanwhile, Florida has become increasingly attractive for people to move to. We can see that there is a net influx of people to Florida from many states all over the US except for the ones mainly in the South Eastern region and Texas. For all the states with a net influx to Flordia, we can note that New York is the largest state where people move to Florida from.
 
-We can also note that for both these states, we also see a loss to states in the South East while gaining people from California.
+In the case of both these states, Florida saw a lot more influx from all states than New York, but for them both, the states where the outflux to other states resulted in a net loss were states closer to them geographically. 
+
 
 In conclusion, states traditionally with larger populations, like California and New York, experienced a net loss of residents to other states. While, states such as Texas and Florida saw an influx of people from across the nation. All across the board, we see that these states all lost people to states in the South East region.
 
