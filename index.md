@@ -118,7 +118,7 @@ Looking at the chord diagram of the migration of the regions, we can see that th
 If we look at each individual region, we can see that different regions have different distribution of influx from the other regions. Let’s go through the different regions discounting the internal movement within the regions, as we have seen that is the main influx type movement we see for most regions. 
 
 <p align="center">
-  <img src="/assets/imgs/Selected_regions_chord.png" />
+  <img src="assets/imgs/Selected_regions_chord.png" />
   ![](/assets/imgs/Selected_regions_chord.png)
 </p>
 
