@@ -142,7 +142,7 @@ We can also see there is movement from the West to the South West and Midwest, t
 
 Next, we can also just look at the general year over year change for each region to see how things may have changed with time. The graphs below show the region trends, but also the trends for states within a selected region. To select a region, click on the line in the graph.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '900' height = '850' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/RegionalStatePopulationChanges/Regionandchanges?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '850' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 Looking at the year over year percent change of each region from 2011-2022 in the graph, we can quickly see that between 2020-2021, there were almost no changes from the way we calculated 2020 values. The most notable thing is highlighted in the year to year percent change values for the North Eastern region of the US. From the graph, it is easy to see that there was a large increase from 2019 to 2020. Then the COVID-19 lockdown happens. About a year after, we can see a drastic decrease in this region. 
 
@@ -154,7 +154,7 @@ Now when looking at the states within a region, the graph on the bottom also enc
 
 Let’s also take a look at unemployment and see if that would affect the migration of people. We can look at the employment rate as well as the year over year percent change for some states. The states we have chosen to look at are the ones with the largest economies of each region with the addition of Georgia as that is the state Georgia Tech is located in. 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '900' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/TopstatesforeachRegionGA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 At first glance, the first thing that points itself out is the general jump in unemployment for the year 2020. This was the year of the COVID lockdown. 
 
@@ -183,7 +183,7 @@ In conclusion, we have found that overall there are a lot of different migration
 
 <h2> Check out a state of your choosing</h2>
 Take a look at all the data, and click on a state on the map that you would like to get more insight on!
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '900' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ConnectedScatterplotsYOYandunemployment/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width = '850' height = '1200' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 <h1 style="text-align: center;">The Data</h1>
 [Census Migration Data](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
