@@ -4,9 +4,9 @@ Our migration data comes from the US Census, and we use a variety of other sourc
 
 <h1 style="text-align: center;">Migration Overview</h1>
 
-First, let’s look at what’s happening currently in the country--which states have a net influx of new residents and which have a net outflux? The map below shows each state’s net migration, normalized by its total population, in 2022.
+First, let’s look at what’s happening currently in the country--which states have a net influx of new residents and which have a net outflux? The map below shows each state’s net migration, normalized by its total population.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/WhosGainingLosingPopulationRelative2022/WhosGainingLosingMap2022?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/WhosGainingLosingPopulationRelative2022_17018938005080/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:embed=yes&:showVizHome=no" width = '850' height = '650' scrolling='yes' style="display: block; margin: auto;"></iframe>
 
 We see strong growth in the Southeast and Southwest, and declines in the West Coast and Northeast. Major states like Texas, Florida, New York, and California get the most attention, not just because they have huge absolute numbers of in and out movement, but also the sharpest changes--New York has the highest relative net outflux, and Florida has the highest net influx absolutely and relatively.
 
