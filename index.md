@@ -31,37 +31,37 @@ This first chord diagram covers all states, and see large connections between Ne
 
 Let's also highlight and go over the large states we have already noted like California, Florida, New York, and Texas. We can also look at the trends for a couple more states, mainly North Carolina and Georgia as we see that they are seeing a high influx of people.
 
-<h3>California</h3>
+<h3>California Influx</h3>
 <p align="center">
   <img src="assets/imgs/chord_california.png" width="600"/>
 </p>
 Here, we see where new California residents are coming from. Major states include Texas, Florida, and New York, plus nearby Washington, Arizona, and Nevada.
 
-<h3>Florida</h3>
+<h3>Florida Influx</h3>
 <p align="center">
   <img src="assets/imgs/chord_florida.png" width="600"/>
 </p>
 New Floridians are coming mainly from New York, some from California, and some from nearby Georgia.
 
-<h3>New York</h3>
+<h3>New York Influx</h3>
 <p align="center">
   <img src="assets/imgs/chord_newyork.png" width="600"/>
 </p>
 In New York, many people are coming from Florida and California, as well as nearby Connecticut, Pennsylvania, and New Jersey.
 
-<h3>Texas</h3>
+<h3>Texas Influx</h3>
 <p align="center">
   <img src="assets/imgs/chord_texas.png" width="600"/>
 </p>
 Texas has huge migration from California, some from Florida and New York, and some from nearby states like Oklahoma.
 
-<h3>North Carolina</h3>
+<h3>North Carolina Influx</h3>
 <p align="center">
   <img src="assets/imgs/chord_northcarolina.png" width="600"/>
 </p>
 North Carolina has a lot of people coming from other Southern states--Georgia, Florida, and Virginia--plus some from New York, and California.
 
-<h3>Georgia</h3>
+<h3>Georgia Influx</h3>
 <p align="center">
   <img src="assets/imgs/chord_georgia.png" width="600"/>
 </p>
