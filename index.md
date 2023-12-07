@@ -25,6 +25,7 @@ Now we know which states are gaining and losing people, but where are they comin
 
 We have some chord diagrams below show for each state, the amount of new residents coming from every other state. 
 
+<h3 style="text-align: center;">US State Influx</h3>
 ![largediagram](/assets/imgs/chord_all.png)
 This first chord diagram covers all states, and see large connections between New York and Florida, New York and California, California and Texas, New York and Texas, Virginia and Maryland, New York and Connecticut, and more.
 
@@ -115,6 +116,7 @@ Despite the differences in the trends between red and blue states, the broad sha
 
 We can see the current situation in 2022 in more detail with this Sankey diagram:
 
+<h3 style="text-align: center;">State & Party Influx/Outflux</h3>
 ![](/assets/imgs/2022MigrationByPartySankey.png)
 
 Overall, blue states have higher movement in both directions, but red states clearly make up a larger proportion of influx, relative to their outflux (shown by the shift in the central pool of all people moving in 2022).
@@ -122,6 +124,7 @@ Overall, blue states have higher movement in both directions, but red states cle
 <h2 style="text-align: center;">Regions</h2>
 Another idea we can look into is that the geographical region of a state has an effect on the movement of people. We have split the US into 5 regions and looked at the migration of people by focusing on those regions: North East, South East, South West, Mid West, and West. 
 
+<h3 style="text-align: center;">Region Influx</h3>
 <p align="center">
   <img src="assets/imgs/Chord_all_regions.png" width="600"/>
 </p>
@@ -130,6 +133,7 @@ Looking at the chord diagram of the migration of the regions, we can see that th
 
 If we look at each individual region, we can see that different regions have different distribution of influx from the other regions. Let’s go through the different regions discounting the internal movement within the regions, as we have seen that is the main influx type movement we see for most regions. The chord diagram with specific regions selected is provided below. 
 
+<h3 style="text-align: center;">Selected Region Influx</h3>
 <p align="center">
   <img src="assets/imgs/Selected_regions_chord.png" />
 </p>
